@@ -1,0 +1,6 @@
+[submodule "Rss_Reader_BackEnd"]
+	path = Rss_Reader_BackEnd
+	url = https://github.com/MRico98/Rss_Reader_BackEnd
+[submodule "Rss_Reader_FrontEnd"]
+	path = Rss_Reader_FrontEnd
+	url = https://github.com/MRico98/Rss_Reader_FrontEnd
